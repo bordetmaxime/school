@@ -23,16 +23,16 @@ dotenv , ejs, express, express-session, nodemon ,pg
 
 création de la bdd
 
-<!-- je me connecte au server PostGres -->
+je me connecte au server PostGres
 
 sudo -i -u postgres psql
 
 
-<!-- je crée ma bdd -->
+je crée ma bdd
 
 CREATE DATABASE nomDeLaBase OWNER nomDuLutilisateur;
 
-<!-- je lance mon fichier que j'ai créer pour importer ma date et la création de ma table-->
+je lance mon fichier que j'ai créer pour importer ma date et la création de ma table
 
 psql -U nomDeLutilisateur -d nomDeLaBase -f chemin/du/fichier.sql
 
@@ -43,29 +43,29 @@ index
 
 étape 5 :
 
-<!-- database -->
+database
 
 étape 6: 
 
-<!-- Routers -->
+Routers
 
 étape 7: 
 
-<!-- Controllers -->
+Controllers
 
 étape 8: 
 
-<!-- dataMapper -->
+dataMapper
 
 étape 9 : 
 
-<!-- EJS -->
+EJS
 
 étape 10 : 
 
-<!-- partials -->
+partials
 
 étape 11 :
 
-<!-- CSS -->
+CSS
 
