@@ -38,13 +38,13 @@ label {
   text-align: center;
 }
 
-.member-item {width:30%;
+.member-item {width:33.3%;
     text-align: center;
   padding: 0.25em 0;
 }
 
 .member-list{
-    margin:0 auto;
+  margin:auto;
     width:100%;
     display: flex;
     flex-wrap:wrap;
